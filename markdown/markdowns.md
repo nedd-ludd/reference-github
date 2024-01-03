@@ -1,5 +1,9 @@
 # Markdown
 
+## Jump to
+
+[Headings and Sub Headings](#headings-and-sub-headings) |
+
 ## Intro
 
 Markdown is a lightweight markup language that is widely used for formatting plain text. It's file extension is .md
@@ -24,7 +28,7 @@ This document is focused on both Standard Markdown and GFM.
 \
 ```
 
-## Headings and Sub Headings
+#### Headings and Sub Headings
 
 ```markdown
 # Headline Level I
@@ -50,15 +54,18 @@ This document is focused on both Standard Markdown and GFM.
 ###### Headline Level VI
 ```
 
-## Special Styles
+#### Special Styles
 
 ```markdown
 **bold**
-"bold" underscores
-
 _italic_
-"_italic_"
 ```
+
+also:
+
+\_\_bold\_\_
+
+\*italic\*
 
 Block quote or quotation
 
@@ -66,7 +73,7 @@ Block quote or quotation
 > Quotation
 ```
 
-### Divides
+#### Divides
 
 ## Horizontal line:
 
@@ -75,6 +82,37 @@ Block quote or quotation
 \*\*\* Asterisks
 \_\_\_ Underscores
 ```
+
+#### Lists
+
+```markdown
+- Hyphens
+
+* Asterisks
+
+\+ Plus sign
+```
+
+```markdown
+1. Number
+1. Doesn't auto-increments
+
+- this is indented under
+```
+
+#### Links
+
+#### Images
+
+Very similar to Links but use !
+
+#### Code
+
+\```lang?
+
+\<insert code here\>
+
+\```
 
 ## Github Markdown
 
@@ -86,4 +124,64 @@ Block quote or quotation
 
 ~~strike through~~
 
-## Links to Great Guides
+## Footnotes
+
+This is a footnote [^1].
+
+## Tables
+
+| Left | Centre | Right |
+| :--: | :----: | :---: |
+| One  |  Two   | Three |
+
+---- = Left Align
+
+:--: = Centre
+
+----: = Right Align
+
+Doesnt really matter if pipes are aligned although common practice to do that
+
+## Slash command
+
+/ helps prompt and auto fill useful things, only works when in issues/ pull requests
+
+only works
+
+## Task List
+
+-[ ] First
+
+-[x] Completed
+
+## Collapsed Details
+
+<details>This is the collapsed details</details>
+
+## Extending Syntax With HTML
+
+## Alert Syntax
+
+[!NOTE]
+
+[!IMPORTANT]
+
+[!WARNING]
+
+Only works in pull requests
+
+## Mermaid Graphs
+
+## Disallowed Raw HTML
+
+![Alt text](image.png)
+
+## Links to Great Guides/ Sites/ Articles
+
+The CommonMark project - https://commonmark.org/
+
+matt cone
+website -
+github - https://github.com/mattcone/markdown-guide
+
+[^1]: My Reference
