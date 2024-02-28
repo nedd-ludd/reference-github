@@ -1,16 +1,8 @@
 # README Notes
 <!-- TODO: Is there guidance on README length anywhere? -->
 <!-- TODO: Spellcheck-->
-<!-- TODO: get SEI template-->
 <!-- TODO: link template to do-->
 <!-- TODO: link to md notes working?-->
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 <!-- TODO: *-->
 <!-- TODO: *-->
@@ -123,5 +115,5 @@ See Matiassingers awesome READMEs list below.
 - [GitHub Docs | Repositories | About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - My Markdown notes
 - [Matiassingers awesome READMEs](https://github.com/matiassingers/awesome-readme)
-- SEI68 template
+- [SEI68 template](#readmes/SEI-ReadMe-Template.odt)
 - Internet article
