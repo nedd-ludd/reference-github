@@ -1,8 +1,8 @@
 # README Notes
 <!-- TODO: Is there guidance on README length anywhere? -->
-<!-- TODO: Spellcheck-->
-<!-- TODO: link template to do-->
+<!-- TODO: sei template to do template link doesnt work-->
 <!-- TODO: link to md notes working?-->
+<!-- TODO: Spellcheck-->
 
 <!-- TODO: *-->
 <!-- TODO: *-->
@@ -10,6 +10,7 @@
 <!-- TODO: *-->
 <!-- TODO: *-->
 <!-- TODO: *-->
+This document explains the purpose and contents of project/ personal README documents to be included in Github Project Repos.
 
 ## Contents
 [Introduction](#introduction) |
@@ -58,7 +59,31 @@ READMEs can also communicate expectations and help manage contributions along si
 
 ## Typical Structures
 
-The structure should depend on the project, that said they may contain certain headings.
+The structure should depend on the project, that said they may contain certain headings. The below can be deleted or expanded on as required.
+
+### Learning Version
+- Friendly title from project name
+- Description - try to keep to 1 sentance
+- Contents
+- Overview
+- Background
+- Code Installation
+- Technologies Used
+- Brief
+- Approach
+- Result
+- Wins
+- Challenges / Blockers
+- Bugs
+- Future Content & Improvements
+- Key Learnings
+
+### ?
+- Friendly title from project name
+- Description - try to keep to 1 sentance
+- Contents
+- Overview
+- Implementation
 
 <LINK TO EXAMPLE/TYPICAL STRUCTURES>
 <LINK TO TEMPLATES>
@@ -69,8 +94,10 @@ Brief info about markdown,
 Refer to notes on markdown [HERE](#https://github.com/nedd-ludd/reference-github/blob/main/markdown/markdowns.md)
 
 ## Helpful Elements
-
+Friendly title 
 images, screenshots, GIFs
+
+Code Snippets
 
 ## Location
 If you put your README file in your repository's hidden .github, root, or docs directory, GitHub will recognize and automatically surface your README to repository visitors.
