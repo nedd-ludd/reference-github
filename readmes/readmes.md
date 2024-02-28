@@ -115,5 +115,5 @@ See Matiassingers awesome READMEs list below.
 - [GitHub Docs | Repositories | About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - My Markdown notes
 - [Matiassingers awesome READMEs](https://github.com/matiassingers/awesome-readme)
-- [SEI68 template](#readmes/SEI-ReadMe-Template.odt)
+- [SEI68 template](#readmes/sei-template.odt)
 - Internet article
