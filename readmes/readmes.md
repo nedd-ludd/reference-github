@@ -179,7 +179,7 @@ Here are below links to READMEs that I consider good/exemplar for different reas
 
 - [GitHub Docs | Repositories | About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [GitHub Docs | Profiles | Your profile README](#https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
-- [My Markdown notes](#markdown/markdowns.md)
+- [My Markdown notes](#../markdown/markdowns.md)
 - [Matiassingers awesome READMEs](https://github.com/matiassingers/awesome-readme)
 - [SEI68 template](#readmes/sei-template.odt)
 - [freecodecamp article](#https://www.freecodecamp.org/news/how-to-write-a-good-readme-file)
